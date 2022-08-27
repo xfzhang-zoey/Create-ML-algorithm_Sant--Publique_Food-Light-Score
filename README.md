@@ -27,7 +27,7 @@ Après avoir lu l’appel à projets, voici les différentes étapes que j'ai id
 - data preprocessing: cleansing, transformation, null data. 
 - Automatisation of data preprocessing. 
 - data visualisation 
-- data modeling 
+- data modeling: feature selection, feature engineering, feature generation 
 - deployment of algorithm in real business 
 
  
