@@ -1,4 +1,4 @@
-## Ideate and create a scoring algorithm in favour of public food health 
+## Ideate and create a scoring algorithm for the stake of public food health 
 
 ## Contexte
 L'agence **Santé publique France** a lancé un **appel à projets** pour trouver des idées innovantes d’**applications en lien avec l'alimentation**. 
